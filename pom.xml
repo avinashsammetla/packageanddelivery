@@ -78,7 +78,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>apigateway</finalName>
+		<finalName>packageanddelivery</finalName>
 	</build>
 
 </project>
